@@ -1,3 +1,2 @@
-XAuthor : Akarapong Srichom
+Author : Akarapong Srichom
 Section : 4
-
